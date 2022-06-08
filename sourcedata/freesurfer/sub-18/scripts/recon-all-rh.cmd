@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/68/Pz/MD5E-s15953--19b89a4becb1b110b5d1bf4c80bb6765.cmd/MD5E-s15953--19b89a4becb1b110b5d1bf4c80bb6765.cmd
+/annex/objects/MD5E-s15953--19b89a4becb1b110b5d1bf4c80bb6765.cmd
