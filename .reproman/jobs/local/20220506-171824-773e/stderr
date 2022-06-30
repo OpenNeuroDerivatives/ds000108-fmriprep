@@ -1,1 +1,14 @@
-../../../../.git/annex/objects/fx/6j/MD5E-s545--cd08b8e1d88ba270a3a1083e5e648696/MD5E-s545--cd08b8e1d88ba270a3a1083e5e648696
+Warning: Permanently added 'c156-093' (ED25519) to the list of known hosts.
+WARNING (05/07/22 14:55:42): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4311841.hostlist.p7Q5xRE5 to get hosts
+starting job on c156-093
+starting job on c156-132
+starting job on c156-134
+starting job on c156-154
+starting job on c156-173
+starting job on c156-214
+starting job on c169-112
+starting job on c169-122
+starting job on c169-151
+slurmstepd: error: *** JOB 4311841 ON c156-093 CANCELLED AT 2022-05-07T21:44:20 ***
+Terminated
