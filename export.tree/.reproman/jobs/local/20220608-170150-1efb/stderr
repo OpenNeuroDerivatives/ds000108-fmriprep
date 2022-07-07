@@ -1,8 +1,0 @@
-Warning: Permanently added 'c160-111' (ED25519) to the list of known hosts.
-WARNING (06/09/22 00:24:45): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4467424.hostlist.6t4yIotp to get hosts
-starting job on c160-111
-starting job on c168-201
-starting job on c187-124
-starting job on c187-151
-Terminated
